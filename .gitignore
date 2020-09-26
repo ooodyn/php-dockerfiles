@@ -1,0 +1,11 @@
+/.idea
+.DS_Store
+*/.DS_Store
+
+# 数据库文件
+/data/redis/
+/data/backup/
+/data/mysql/
+/logs
+
+!/data/backup/*.sql
